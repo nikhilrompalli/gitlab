@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "4": {
+      "branches": "master,user-v2.0",
+      "re-match": "^db",
+      "mail-list": "nikhirompalli09@gmail.com",
+      "subject" : "DB folder got changes"
+    }
+  },
+  "server":"127.0.0.1"
+}
